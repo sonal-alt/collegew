@@ -223,7 +223,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(../images/home-bg.jpg) no-repeat;
+    background:url(https://raw.githubusercontent.com/sonal-alt/collegew/main/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -248,7 +248,7 @@ header #menu{
     bottom:-.2rem; left: 0;
     height:15rem;
     width:100%;
-    background:url(../images/shape.png);
+    background:url();
     block-size: 100rem 15rem;
     filter: drop-shadow(0 -.1rem .1rem rgba(0,0,0,.2));
     animation: animate 10s linear infinite;
@@ -375,7 +375,7 @@ header #menu{
 
 .teacher{
     text-align: center;
-    background:url(../images/teachers.jfif) no-repeat;
+    background:url(https://il-app.s3.ap-south-1.amazonaws.com/images/Faculty_Frenil_g.png) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
